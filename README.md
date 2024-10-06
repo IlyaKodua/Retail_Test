@@ -12,6 +12,7 @@ python3 embeddings_save.py # Не забыть указать путь к дат
 ```
 В ноутбуке accuracy_p_r_plot.ipynb приведен результат и рассчет accuracy, precision, recall и подбор оптимального порога для accuracy.
 ### Результаты
+Результаты также можно просмотреть в accuracy_p_r_plot.ipynb 
 | Порог | Accuracy | Precision | Recall |
 |---|---|---|---|
 | 0.75 | 0.98 | 0.99 | 0.98 |
